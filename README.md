@@ -4,22 +4,19 @@ Bu proje, kullanıcıların metinleri farklı dillere anlık olarak çevirebilme
 
 ## 🚀 Öne Çıkan Özellikler
 
-* **Akıllı Metin Çevirisi:** Girilen metni seçilen hedef dile saniyeler içinde çevirir.
-* **Otomatik Dil Algılama:** Kaynak metnin hangi dilde olduğunu (Auto-detect) sistem kendisi bulur.
-* **Görsel Geri Bildirim:** Çeviri sırasında "Yükleniyor..." durumu ile kullanıcıyı bilgilendirir.
-* **Modern Tasarım:** Karanlık mod destekli, temiz ve şık bir kullanıcı arayüzü.
+- **Akıllı Metin Çevirisi:** Girilen metni seçilen hedef dile saniyeler içinde çevirir.
+- **Görsel Geri Bildirim:** Çeviri sırasında "Yükleniyor..." durumu ile kullanıcıyı bilgilendirir.
+- **Modern Tasarım:** Karanlık mod destekli, temiz ve şık bir kullanıcı arayüzü.
 
 ## 🛠️ Kullanılan Teknolojiler
 
-| Teknoloji | Kullanım Amacı |
-| :--- | :--- |
-| **React** | Bileşen tabanlı arayüz yönetimi |
-| **Redux Toolkit** | Global state ve veri akışı yönetimi |
-| **Axios** | API isteklerinin yönetimi |
-| **RapidAPI** | Deep Translate API entegrasyonu |
-| **CSS3 / SCSS** | Modern ve duyarlı (responsive) tasarım |
-
-
+| Teknoloji         | Kullanım Amacı                         |
+| :---------------- | :------------------------------------- |
+| **React**         | Bileşen tabanlı arayüz yönetimi        |
+| **Redux Toolkit** | Global state ve veri akışı yönetimi    |
+| **Axios**         | API isteklerinin yönetimi              |
+| **RapidAPI**      | Deep Translate API entegrasyonu        |
+| **CSS3 / SCSS**   | Modern ve duyarlı (responsive) tasarım |
 
 ## 💡 Bu Proje Bana Ne Öğretti?
 
