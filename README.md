@@ -1,4 +1,4 @@
-# 🌍 LingoLink - Modern Çeviri Uygulaması
+# 🌍 Translate App - Modern Çeviri Uygulaması
 
 Bu proje, kullanıcıların metinleri farklı dillere anlık olarak çevirebilmesini sağlayan, kullanıcı dostu ve hızlı bir web uygulamasıdır. Karmaşık süreçleri sade bir arayüzle sunarak dil bariyerlerini ortadan kaldırmayı hedefler.
 
